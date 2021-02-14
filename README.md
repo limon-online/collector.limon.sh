@@ -1,6 +1,6 @@
 # Collector
 
-This is an API for collect date from agents.
+This is an API for collect data from agents.
 
 
 ### Set up
