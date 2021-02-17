@@ -5,7 +5,7 @@ from api import router
 
 app = FastAPI(
     title='Collector',
-    description='This is an API for collect date from agents',
+    description='This is an API for collect data from agents',
     version='0.0.1'
 )
 
